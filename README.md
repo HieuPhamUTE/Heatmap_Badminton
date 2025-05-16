@@ -8,7 +8,7 @@ This project aims to identify the location of badminton players in a video and g
 ## 👥 Team Members
 - Student 1 - Pham Ngoc Hieu - 2430904
 - Student 2 - Nguyen Nhat Phap - 2430911
-Instructor: Ph.D Bui Ha Duc - HCMUTE
+- Instructor: Ph.D Bui Ha Duc - HCMUTE
 
 ## 🔍 Methodology
 
