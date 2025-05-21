@@ -30,5 +30,6 @@ This project aims to identify the location of badminton players in a video and g
 - A heatmap is generated using `matplotlib` or `seaborn` to visualize activity concentration on the court.
 
 Link google drive: https://drive.google.com/drive/folders/1OWAimqgZIYqXtVB1WKkkcZeeN9a2r2Ek?usp=sharing
+(It includes Video detection, video demo and model of training
 
 
